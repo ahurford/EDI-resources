@@ -6,6 +6,8 @@ https://www.iscb.org/edi-resources
 
 [Scarborough Charter](https://www.utsc.utoronto.ca/principal/sites/utsc.utoronto.ca.principal/files/docs/Scarborough_Charter_EN_Nov2022.pdf)
 
+[http://www.canssi.ca/equity-diversity-and-inclusion/](CANSII)
+
 ## Mathematics for Public Health Speakers and resources
 Session 1: S Mishra: http://www.fields.utoronto.ca/talks/Special-EDI-Session-1-Modellers-first-do-no-harm-terminology-assumptions-and-interpretation
 
