@@ -44,3 +44,7 @@
 - [NSERC EDI policies](https://www.nserc-crsng.gc.ca/InterAgency-Interorganismes/EDI-EDI/index_eng.asp)
 
 - [Scarborough Charter](https://www.utsc.utoronto.ca/principal/sites/utsc.utoronto.ca.principal/files/docs/Scarborough_Charter_EN_Nov2022.pdf) commits Canadian Universities to anti-racism
+
+## Links
+
+- [Canadian Center for Diversity and Inclusion](https://ccdi.ca/)
