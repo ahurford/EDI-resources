@@ -18,11 +18,18 @@
 
 - [Reading list](http://brews.eeb.utoronto.ca/links-resources/) from the EEB department at the University of Toronto
 
-- [Who gets into medical school and why](https://www.stuff.co.nz/national/health/300013258/medical-school-who-gets-in-and-why) - University of Otago Medical School admissions
 
 - [Guide for considering EDI in your NSERC Discovery Grant](https://www.nserc-crsng.gc.ca/_doc/EDI/Guide_for_Applicants_EN.pdf)
 
 - NSERC is a signatory of [DORA](https://sfdora.org/read/) - explains why journal impact factor should not be used to evaluate research quality
+
+## Why equity and diversity matters
+
+- [Who gets into medical school and why](https://www.stuff.co.nz/national/health/300013258/medical-school-who-gets-in-and-why) - University of Otago Medical School admissions
+
+- [Diversity in STEM: What it is and Why it Matters](https://blogs.scientificamerican.com/voices/diversity-in-stem-what-it-is-and-why-it-matters/) -  cited in the NSERC Discovery Grant Guidelines)
+
+- [Gender diversity leads to better science](https://www.pnas.org/doi/pdf/10.1073/pnas.1700616114) - cited in the NSERC Discovery Grant Guidelines
 
 ## Policy statements from related groups
 
