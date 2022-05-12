@@ -18,6 +18,8 @@
 
 - [Reading list](http://brews.eeb.utoronto.ca/links-resources/) from the EEB department at the University of Toronto
 
+- [Who gets into medical school and why](https://www.stuff.co.nz/national/health/300013258/medical-school-who-gets-in-and-why)
+
 ## Policy statements from related groups
 
 - [CSEE commitment to EDI](http://www.csee-scee.ca/diversity-and-inclusivity-statement/)
