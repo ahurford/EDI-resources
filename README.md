@@ -2,6 +2,8 @@
 
 ## Training resources
 
+- [Implicit bias training](https://www.chairs-chaires.gc.ca/program-programme/equity-equite/bias/module-eng.aspx?pedisable=true) from the Canada Research Chairs program
+
 - [ISCB training resources](https://www.iscb.org/edi-resources)
 
 - [CANSII EDI training resources](http://www.canssi.ca/canssi-edi-training/)
