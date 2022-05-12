@@ -8,7 +8,9 @@
 
 Watch 'Picture a scientist' on Netflix
 
+[Importance of collecting data - report in CMS](https://notes.math.ca/en/article/title-about-the-necessity-of-collecting-data-to-improve-edi-in-mathematics/)
 
+[EDI in modelling from Mathematics for Public Health](https://github.com/ahurford/EDI-resources/blob/main/modelling-EDI/modelling-edi.md)
 
 ## Policy statements from related groups
 
