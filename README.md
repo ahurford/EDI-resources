@@ -6,7 +6,7 @@
 
 [CANSII EDI training resources](http://www.canssi.ca/canssi-edi-training/)
 
-Watch 'Picture a scientist on Netflix
+Watch 'Picture a scientist' on Netflix
 
 
 
