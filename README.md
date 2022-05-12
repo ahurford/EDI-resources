@@ -10,7 +10,7 @@
 
 - [Importance of collecting data](https://notes.math.ca/en/article/title-about-the-necessity-of-collecting-data-to-improve-edi-in-mathematics/) - report in CMS
 
-- [EDI in modelling from Mathematics for Public Health](https://github.com/ahurford/EDI-resources/blob/main/modelling-EDI/modelling-edi.md)
+- [EDI in modelling](https://github.com/ahurford/EDI-resources/blob/main/modelling-EDI/modelling-edi.md) -  from Mathematics for Public Health
 
 ## Policy statements from related groups
 
