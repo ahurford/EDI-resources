@@ -24,7 +24,7 @@
 
 - [Reading list](http://brews.eeb.utoronto.ca/links-resources/) from the EEB department at the University of Toronto
 
-- Provide pronouns, land acknowledgments, lead activities, write statements, audit, bystander intervention
+- Provide pronouns, land acknowledgments, lead activities, write statements, audit, bystander intervention, decolonize your syllabus
 
 
 ## Why equity and diversity matters
