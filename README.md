@@ -10,6 +10,12 @@
 
 - 'Picture a scientist' on Netflix
 
+- NSERC is a signatory of [DORA](https://sfdora.org/read/) - explains why journal impact factor should not be used to evaluate research quality
+
+- [Guide for considering EDI in your NSERC Discovery Grant](https://www.nserc-crsng.gc.ca/_doc/EDI/Guide_for_Applicants_EN.pdf)
+
+## Actions
+
 - [Importance of collecting data](https://notes.math.ca/en/article/title-about-the-necessity-of-collecting-data-to-improve-edi-in-mathematics/) - report in CMS
 
 - [EDI in modelling](https://github.com/ahurford/EDI-resources/blob/main/modelling-EDI/modelling-edi.md) -  from Mathematics for Public Health
@@ -18,10 +24,6 @@
 
 - [Reading list](http://brews.eeb.utoronto.ca/links-resources/) from the EEB department at the University of Toronto
 
-
-- [Guide for considering EDI in your NSERC Discovery Grant](https://www.nserc-crsng.gc.ca/_doc/EDI/Guide_for_Applicants_EN.pdf)
-
-- NSERC is a signatory of [DORA](https://sfdora.org/read/) - explains why journal impact factor should not be used to evaluate research quality
 
 ## Why equity and diversity matters
 
