@@ -14,6 +14,8 @@
 
 - [10 simple rules for building an anti-racist lab](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1008210)
 
+- [Reading list](http://brews.eeb.utoronto.ca/links-resources/) from the EEB department at the University of Toronto
+
 ## Policy statements from related groups
 
 - [CSEE commitment to EDI](http://www.csee-scee.ca/diversity-and-inclusivity-statement/)
