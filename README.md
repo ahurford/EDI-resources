@@ -4,7 +4,7 @@
 
 - [Implicit bias training](https://www.chairs-chaires.gc.ca/program-programme/equity-equite/bias/module-eng.aspx?pedisable=true) from the Canada Research Chairs program
 
-- [CANSII EDI training resources](http://www.canssi.ca/canssi-edi-training/)
+- [Racial bias workbook](http://www.canssi.ca/wp-content/uploads/2022/05/CANSSI_PIMS_racial_bias_workbook_final.pdf) - from CANSII
 
 - NSERC is a signatory of [DORA](https://sfdora.org/read/) - explains why journal impact factor should not be used to evaluate research quality
 
