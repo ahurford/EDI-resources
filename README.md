@@ -18,7 +18,7 @@
 
 - [Reading list](http://brews.eeb.utoronto.ca/links-resources/) from the EEB department at the University of Toronto
 
-- [Who gets into medical school and why](https://www.stuff.co.nz/national/health/300013258/medical-school-who-gets-in-and-why)
+- [Who gets into medical school and why](https://www.stuff.co.nz/national/health/300013258/medical-school-who-gets-in-and-why) - University of Otago Medical School admissions
 
 ## Policy statements from related groups
 
