@@ -8,13 +8,13 @@
 
 - [CANSII EDI training resources](http://www.canssi.ca/canssi-edi-training/)
 
-- 'Picture a scientist' on Netflix
-
 - NSERC is a signatory of [DORA](https://sfdora.org/read/) - explains why journal impact factor should not be used to evaluate research quality
 
 - [Guide for considering EDI in your NSERC Discovery Grant](https://www.nserc-crsng.gc.ca/_doc/EDI/Guide_for_Applicants_EN.pdf)
 
 ## Actions
+
+- 'Picture a scientist' on Netflix
 
 - [Importance of collecting data](https://notes.math.ca/en/article/title-about-the-necessity-of-collecting-data-to-improve-edi-in-mathematics/) - report in CMS
 
