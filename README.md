@@ -20,6 +20,8 @@
 
 - [10 simple rules for building an anti-racist lab](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1008210)
 
+- Understand [gender biases in reference letters](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.185.2206&rep=rep1&type=pdf)
+
 - [Reading list](http://brews.eeb.utoronto.ca/links-resources/) from the EEB department at the University of Toronto
 
 - Provide pronouns, land acknowledgments, lead activities, write statements, audit, bystander intervention
