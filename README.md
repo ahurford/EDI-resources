@@ -12,6 +12,8 @@
 
 - [EDI in modelling](https://github.com/ahurford/EDI-resources/blob/main/modelling-EDI/modelling-edi.md) -  from Mathematics for Public Health
 
+- [10 simple rules for building an anti-racist lab](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1008210)
+
 ## Policy statements from related groups
 
 - [CSEE commitment to EDI](http://www.csee-scee.ca/diversity-and-inclusivity-statement/)
