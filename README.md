@@ -22,7 +22,7 @@
 
 - [Guide for considering EDI in your NSERC Discovery Grant](https://www.nserc-crsng.gc.ca/_doc/EDI/Guide_for_Applicants_EN.pdf)
 
-- NSERC is a signatory of [DORA]([https://sfdora.org/read/) - explains why journal impact factor should not be used to evaluate research quality
+- NSERC is a signatory of [DORA](https://sfdora.org/read/) - explains why journal impact factor should not be used to evaluate research quality
 
 ## Policy statements from related groups
 
