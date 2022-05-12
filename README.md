@@ -4,8 +4,6 @@
 
 - [Implicit bias training](https://www.chairs-chaires.gc.ca/program-programme/equity-equite/bias/module-eng.aspx?pedisable=true) from the Canada Research Chairs program
 
-- [ISCB training resources](https://www.iscb.org/edi-resources)
-
 - [CANSII EDI training resources](http://www.canssi.ca/canssi-edi-training/)
 
 - NSERC is a signatory of [DORA](https://sfdora.org/read/) - explains why journal impact factor should not be used to evaluate research quality
@@ -44,6 +42,8 @@
 - [NSERC EDI policies](https://www.nserc-crsng.gc.ca/InterAgency-Interorganismes/EDI-EDI/index_eng.asp)
 
 - [Scarborough Charter](https://www.utsc.utoronto.ca/principal/sites/utsc.utoronto.ca.principal/files/docs/Scarborough_Charter_EN_Nov2022.pdf) commits Canadian Universities to anti-racism
+
+- [ISCB documents](https://www.iscb.org/edi-resources)
 
 ## Links
 
