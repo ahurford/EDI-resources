@@ -6,7 +6,7 @@
 
 - [CANSII EDI training resources](http://www.canssi.ca/canssi-edi-training/)
 
-- Watch 'Picture a scientist' on Netflix
+- 'Picture a scientist' on Netflix
 
 - [Importance of collecting data](https://notes.math.ca/en/article/title-about-the-necessity-of-collecting-data-to-improve-edi-in-mathematics/) - report in CMS
 
