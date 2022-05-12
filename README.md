@@ -22,6 +22,8 @@
 
 - Understand [gender biases in reference letters](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.185.2206&rep=rep1&type=pdf)
 
+- [White supremacy in higher education](https://medium.com/the-faculty/white-academia-do-better-fa96cede1fc5)
+
 - [Reading list](http://brews.eeb.utoronto.ca/links-resources/) from the EEB department at the University of Toronto
 
 - Provide pronouns, land acknowledgments, lead activities, write statements, audit, bystander intervention, decolonize your syllabus, highlight members
