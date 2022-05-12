@@ -20,6 +20,8 @@
 
 - [Who gets into medical school and why](https://www.stuff.co.nz/national/health/300013258/medical-school-who-gets-in-and-why) - University of Otago Medical School admissions
 
+- [Guide for considering EDI in your NSERC Discovery Grant](https://www.nserc-crsng.gc.ca/_doc/EDI/Guide_for_Applicants_EN.pdf) 
+
 ## Policy statements from related groups
 
 - [CSEE commitment to EDI](http://www.csee-scee.ca/diversity-and-inclusivity-statement/)
