@@ -33,7 +33,7 @@
 
 - [Who gets into medical school and why](https://www.stuff.co.nz/national/health/300013258/medical-school-who-gets-in-and-why) - University of Otago Medical School admissions
 
-- [Diversity in STEM: What it is and Why it Matters](https://blogs.scientificamerican.com/voices/diversity-in-stem-what-it-is-and-why-it-matters/) -  cited in the NSERC Discovery Grant Guidelines)
+- [Diversity in STEM: What it is and Why it Matters](https://blogs.scientificamerican.com/voices/diversity-in-stem-what-it-is-and-why-it-matters/) -  cited in the NSERC Discovery Grant Guidelines
 
 - [Gender diversity leads to better science](https://www.pnas.org/doi/pdf/10.1073/pnas.1700616114) - cited in the NSERC Discovery Grant Guidelines
 
