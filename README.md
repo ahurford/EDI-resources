@@ -14,7 +14,7 @@
 
 - 'Picture a scientist' on Netflix
 
-- [Importance of collecting data](https://notes.math.ca/en/article/title-about-the-necessity-of-collecting-data-to-improve-edi-in-mathematics/) - report in CMS
+- [Importance of collecting data](https://notes.math.ca/en/article/title-about-the-necessity-of-collecting-data-to-improve-edi-in-mathematics/) - report in CMS. See also [Women and math awards](https://www.nature.com/articles/d41586-022-01481-w) 
 
 - [EDI in modelling](https://github.com/ahurford/EDI-resources/blob/main/modelling-EDI/modelling-edi.md) -  from Mathematics for Public Health
 
@@ -36,6 +36,7 @@
 - [Diversity in STEM: What it is and Why it Matters](https://blogs.scientificamerican.com/voices/diversity-in-stem-what-it-is-and-why-it-matters/) -  cited in the NSERC Discovery Grant Guidelines
 
 - [Gender diversity leads to better science](https://www.pnas.org/doi/pdf/10.1073/pnas.1700616114) - cited in the NSERC Discovery Grant Guidelines
+
 
 ## Policy statements from related groups
 
