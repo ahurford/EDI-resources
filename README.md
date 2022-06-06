@@ -14,6 +14,8 @@
 
 - 'Picture a scientist' on Netflix
 
+- [Academia's abelist mindset needs to change](https://www.nature.com/articles/d41586-021-02907-7)
+
 - [How LGBT+ scientists would like to be included and welcomed in STEM workplaces](https://www.nature.com/articles/d41586-020-02949-3)
 
 - [Importance of collecting data](https://notes.math.ca/en/article/title-about-the-necessity-of-collecting-data-to-improve-edi-in-mathematics/) - report in CMS. See also [Women and math awards](https://www.nature.com/articles/d41586-022-01481-w) 
