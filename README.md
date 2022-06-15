@@ -1,5 +1,9 @@
 # EDI-resources
 
+## CAIMS Activities
+
+- [Navigativing EDI](https://github.com/ahurford/EDI-resources/blob/main/CAIMS_EDI_June_15_2022.pdf) June 15, 2022.
+
 ## Training resources
 
 - [Implicit bias training](https://www.chairs-chaires.gc.ca/program-programme/equity-equite/bias/module-eng.aspx?pedisable=true) from the Canada Research Chairs program
