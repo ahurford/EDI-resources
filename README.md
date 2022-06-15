@@ -2,7 +2,7 @@
 
 ## CAIMS Activities
 
-- [Navigativing EDI](https://github.com/ahurford/EDI-resources/blob/main/files/CAIMS_EDI_June_15_2022.pdf), June 15, 2022.
+- [Navigating EDI](https://github.com/ahurford/EDI-resources/blob/main/files/CAIMS_EDI_June_15_2022.pdf), June 15, 2022.
 
 ## Training resources
 
