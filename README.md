@@ -45,6 +45,8 @@
 
 - [Gender diversity leads to better science](https://www.pnas.org/doi/pdf/10.1073/pnas.1700616114) - cited in the NSERC Discovery Grant Guidelines
 
+- [Quantification of intersectional priveledge](https://www.science.org/doi/10.1126/sciadv.abo1558) 
+
 
 ## Policy statements from related groups
 
