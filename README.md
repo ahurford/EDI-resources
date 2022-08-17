@@ -16,6 +16,8 @@
 
 ## Actions
 
+- [We need to acknowledge the problem](https://interactives.stuff.co.nz/the-side-eye/the-table/)
+
 - 'Picture a scientist' on Netflix
 
 - [Academia's abelist mindset needs to change](https://www.nature.com/articles/d41586-021-02907-7)
