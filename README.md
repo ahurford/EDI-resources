@@ -65,5 +65,3 @@
 ## Links
 
 - [Canadian Center for Diversity and Inclusion](https://ccdi.ca/)
-
-- [Work-life balance](https://raw.githubusercontent.com/ahurford/EDI-resources/main/files/Martignoni) by Maria M. Martignoni
