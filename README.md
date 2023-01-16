@@ -65,3 +65,5 @@
 ## Links
 
 - [Canadian Center for Diversity and Inclusion](https://ccdi.ca/)
+
+- Maria Martignoni advocating for better work-life balance in academic in [The Female Scientist](https://thefemalescientist.com/portrait/maria-martignoni/3111/go-for-it/)
