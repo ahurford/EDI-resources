@@ -13,6 +13,8 @@
 - NSERC is a signatory of [DORA](https://sfdora.org/read/) - explains why journal impact factor should not be used to evaluate research quality
 
 - [Guide for considering EDI in your NSERC Discovery Grant](https://www.nserc-crsng.gc.ca/_doc/EDI/Guide_for_Applicants_EN.pdf)
+  
+- [Gender equity in science bring together scientist from all disciplines](https://women.acm.org/gender-equality-in-science-scges-brings-together-scientists-from-all-disciplines-for-gender-equality/)
 
 ## Actions
 
