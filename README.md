@@ -2,6 +2,8 @@
 
 ## CAIMS Activities
 
+- Question submission for [2024 CAIMS EDI session](https://forms.gle/EWiVbpZ8AnCzEwph9). (downloadable [QR code]() for question submission link)
+
 - [Navigating EDI](https://github.com/ahurford/EDI-resources/blob/main/files/CAIMS_EDI_June_15_2022.pdf) Presentation June 15, 2022.
   
 - [The CAIMS EDI survey](https://mun.az1.qualtrics.com/jfe/form/SV_eb5t4wUhqMBAqzA) (downloadable [QR code](https://github.com/ahurford/EDI-resources/blob/main/files/survey-qrcode.png) for survey).
