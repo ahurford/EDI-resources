@@ -6,6 +6,8 @@
 
 - [Navigating EDI](https://github.com/ahurford/EDI-resources/blob/main/files/CAIMS_EDI_June_15_2022.pdf) Presentation June 15, 2022.
   
+- Questions for the [2021 EDI panel](https://github.com/ahurford/EDI-resources/blob/main/files/Panel.pdf) contributed by Sue Ann Campbell.
+  
 - [The CAIMS EDI survey](https://mun.az1.qualtrics.com/jfe/form/SV_eb5t4wUhqMBAqzA) (downloadable [QR code](https://github.com/ahurford/EDI-resources/blob/main/files/survey-qrcode.png) for survey).
 
 ## Training resources
